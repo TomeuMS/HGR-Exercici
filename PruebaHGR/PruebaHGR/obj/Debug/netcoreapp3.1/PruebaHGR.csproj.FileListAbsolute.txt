@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\bin\Debug\netcoreapp3.1\PruebaHGR.exe
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\bin\Debug\netcoreapp3.1\PruebaHGR.deps.json
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\bin\Debug\netcoreapp3.1\PruebaHGR.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\bin\Debug\netcoreapp3.1\PruebaHGR.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\bin\Debug\netcoreapp3.1\PruebaHGR.dll
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\bin\Debug\netcoreapp3.1\PruebaHGR.pdb
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.dll
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.pdb
+C:\Users\Lenovo\source\repos\PruebaHGR\PruebaHGR\obj\Debug\netcoreapp3.1\PruebaHGR.genruntimeconfig.cache
